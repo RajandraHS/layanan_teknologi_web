@@ -1,0 +1,15 @@
+{
+    "name": "weblanjutan/dasar-php-mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Weblanjutan\\DasarPhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "han"
+        }
+    ],
+    "require": {}
+}
